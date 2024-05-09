@@ -56,7 +56,5 @@ Your app will be running at `http://localhost:3000`.
 - **Train Details**: Click on a train from the list to view detailed information about the train.
 - **Navigation**: Use the header and footer for easy navigation within the app.
 
-## Folder Structure
 
-Here's the basic folder structure for this project:
 
